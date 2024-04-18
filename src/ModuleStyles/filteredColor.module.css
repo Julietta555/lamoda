@@ -1,0 +1,25 @@
+.filteredColor {
+  font-family: "Montserrat";
+  display: grid;
+  flex-direction: column;
+  background-color: darkgray;
+  padding: 0px 0px 5px 0px;
+  width: 180px;
+  height: 250px;
+  gap: 10px;
+}
+
+.filteredColor span {
+  border: 1px solid #000;
+  display: inline-flex;
+  padding: 10px 15px;
+  width: 82%;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.filteredColor label {
+  display: flex;
+  align-items: flex-start;
+}

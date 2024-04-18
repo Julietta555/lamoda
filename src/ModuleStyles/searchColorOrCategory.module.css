@@ -1,0 +1,10 @@
+.searchColorOrCategory input {
+  font-family: "Montserrat";
+  font-size: 18px;
+}
+
+@media screen and (max-width: 320px) {
+  .searchColorOrCategory {
+    margin-top: 10px;
+  }
+}

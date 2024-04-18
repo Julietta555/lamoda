@@ -1,0 +1,13 @@
+.moduleSection {
+  font-family: "Montserrat";
+  border: 1px solid #000;
+  width: 260px;
+}
+
+.image {
+  width: 70%;
+}
+
+.moduleInfo {
+  display: inline-block;
+}

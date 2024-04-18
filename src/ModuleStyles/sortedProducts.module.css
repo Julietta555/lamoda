@@ -1,0 +1,20 @@
+.sortedProducts {
+  font-family: "Montserrat";
+  display: flex;
+  height: 28px;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.sortedProducts select {
+  font-family: "Montserrat";
+  flex-wrap: wrap;
+}
+
+.sorting {
+  font-size: 18px;
+}
+
+.sortedProducts select {
+  font-size: 18px;
+}
